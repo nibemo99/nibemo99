@@ -4,10 +4,10 @@
 ![](https://i.imgur.com/xtb0rvs.gif)
 
 ## About me
-- 👀 I'm a passionate programmer that's always evolving and adding new knowledge to the tool box. I've worked teaching math and physics in high school and also providing customer service through voice and chat.
+- 👀 I'm a passionate programmer that's always evolving and adding new knowledge to the tool box. I've also worked teaching high school math and physics as well as  providing customer service through voice and chat.
 - 📖 Currently studying at [SoyHenry](https://www.soyhenry.com/).
 - 🔭 Currently learning Three.js to give life some of my most ambitious ideas in 3D experiences.
-- 🧘‍♂️ I like to meditate and run 🏃‍♂️. 
+- 🧘‍♂️ I like to meditate and run after coding 🏃‍♂️.
 - 📩 How to contact me? → [hello@nicolasbm.dev](mailto:hello@nicolasbm.dev)
 
 ## Skills

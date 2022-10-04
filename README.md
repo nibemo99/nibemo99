@@ -19,6 +19,13 @@
 - HTML & CSS
 - Three.js
 
+## Proyects
+- [Picas & Fijas ⌛](https://github.com/nibemo99/react-pyf)
+- [Supermarket prices API 🧺 (under construction)](https://pricesapi.nicolasbm.dev/)
+- [Soy Henry Individual Proyect 🔥 (under construction)](https://henrypi.nicolasbm.dev/)
+- [Soy Henry Final Group Proyect 👨‍💻👩‍💻🧑‍💻 (under construction)](https://henrypf.nicolasbm.dev/)
 
 
+### A bit of humor?
+![Joke](https://readme-jokes.vercel.app/api?theme=darcula)
 
